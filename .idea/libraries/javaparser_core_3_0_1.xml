@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="javaparser-core-3.0.1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/src/Tut_03/libs/javaparser-core-3.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/Tut_03/libs/t3-utils.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/Tut_03/libs/userlib.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/src/Tut_03/libs/t3-utils.jar!/" />
+    </SOURCES>
+  </library>
+</component>

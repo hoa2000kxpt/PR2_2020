@@ -1,0 +1,489 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="753e63e5-e76d-498e-b32b-0b96f83884c6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/PR2_2020/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PR2_2020/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PR2_2020/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PR2_2020/.idea/libraries/javaparser_core_3_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PR2_2020/.idea/libraries/userlib.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PR2_2020/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PR2_2020/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PR2_2020/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PR2_2020/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PR2_2020/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PR2_2020/out/production/PR2_2020/Tut_01/Ex2_1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PR2_2020/out/production/PR2_2020/Tut_01/Ex2_2_CORE.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PR2_2020/out/production/PR2_2020/Tut_01/Ex2_3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PR2_2020/out/production/PR2_2020/Tut_01/Ex2_4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PR2_2020/out/production/PR2_2020/Tut_01/Ex2_5.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PR2_2020/out/production/PR2_2020/Tut_01/Ex2_6_CORE.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PR2_2020/out/production/PR2_2020/Tut_01/Ex3_1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PR2_2020/out/production/PR2_2020/Tut_01/Ex3_2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PR2_2020/out/production/PR2_2020/Tut_01/Ex3_3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PR2_2020/out/production/PR2_2020/Tut_01/Ex3_4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PR2_2020/out/production/PR2_2020/Tut_01/Ex3_5_CORE.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PR2_2020/out/production/PR2_2020/Tut_01/sales.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PR2_2020/out/production/PR2_2020/Tut_03/Ex_1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PR2_2020/out/production/PR2_2020/Tut_03/Ex_2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PR2_2020/out/production/PR2_2020/Tut_03/Ex_3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PR2_2020/out/production/PR2_2020/Tut_03/Ex_5.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PR2_2020/out/production/PR2_2020/Tut_03/Hello.j" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PR2_2020/out/production/PR2_2020/Tut_03/ProgWriter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PR2_2020/out/production/PR2_2020/Tut_03/libs/Hello.j" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PR2_2020/out/production/PR2_2020/Tut_03/libs/javaparser-core-3.0.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PR2_2020/out/production/PR2_2020/Tut_03/libs/t3-utils.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PR2_2020/out/production/PR2_2020/Tut_03/libs/userlib.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PR2_2020/out/production/PR2_2020/Tut_03/t3-utils.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PR2_2020/out/production/PR2_2020/Tut_03/test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PR2_2020/out/production/PR2_2020/Tut_03/userlib.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PR2_2020/out/production/PR2_2020/chap1/Blocks.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PR2_2020/out/production/PR2_2020/chap1/Chào.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PR2_2020/out/production/PR2_2020/chap1/ComputeAverage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PR2_2020/out/production/PR2_2020/chap1/ComputeAverageWithCounter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PR2_2020/out/production/PR2_2020/chap1/ComputeAverageWithForLoop.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PR2_2020/out/production/PR2_2020/chap1/CreateProfile.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PR2_2020/out/production/PR2_2020/chap1/Enums$Season.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PR2_2020/out/production/PR2_2020/chap1/Enums.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PR2_2020/out/production/PR2_2020/chap1/ForEachLoop1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PR2_2020/out/production/PR2_2020/chap1/ForEachLoop2$Season.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PR2_2020/out/production/PR2_2020/chap1/ForEachLoop2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PR2_2020/out/production/PR2_2020/chap1/Greeting.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PR2_2020/out/production/PR2_2020/chap1/IfStmt.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PR2_2020/out/production/PR2_2020/chap1/Interest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PR2_2020/out/production/PR2_2020/chap1/Interest2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PR2_2020/out/production/PR2_2020/chap1/ListLetters.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PR2_2020/out/production/PR2_2020/chap1/ListLetters2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PR2_2020/out/production/PR2_2020/chap1/MultiVarCountLoop.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PR2_2020/out/production/PR2_2020/chap1/Operators.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PR2_2020/out/production/PR2_2020/chap1/Switch.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PR2_2020/out/production/PR2_2020/chap2/Gcd.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PR2_2020/out/production/PR2_2020/chap2/Gcd.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PR2_2020/out/production/PR2_2020/chap2/Gcd.s" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PR2_2020/out/production/PR2_2020/chap2/Gcd2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PR2_2020/out/production/PR2_2020/chap2/Gcd3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PR2_2020/out/production/PR2_2020/chap2/Hello.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PR2_2020/out/production/PR2_2020/chap2/HelloSub.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PR2_2020/out/production/PR2_2020/chap2/IfStmt.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PR2_2020/out/production/PR2_2020/chap2/IntegerLiteral.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PR2_2020/out/production/PR2_2020/chap2/jvm/Spin.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PR2_2020/out/production/PR2_2020/chap3/ImportanceOfSpec.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PR2_2020/out/production/PR2_2020/chap3/Numbers.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PR2_2020/out/production/PR2_2020/chap3/SearchMultiple.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PR2_2020/out/production/PR2_2020/chap3/Specifications.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PR2_2020/out/production/PR2_2020/chap3/SquareRoot.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PR2_2020/out/production/PR2_2020/chap3/design/BinChop.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PR2_2020/out/production/PR2_2020/chap3/design/CoffeeTinGame.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PR2_2020/out/production/PR2_2020/chap3/implement/BinChop.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PR2_2020/out/production/PR2_2020/chap3/implement/CoffeeTinGame.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PR2_2020/out/production/PR2_2020/chap3/implement/Sum.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PR2_2020/out/production/PR2_2020/chap3/implement2/BinChop.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PR2_2020/out/production/PR2_2020/chap3/implement2/CoffeeTinGame.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PR2_2020/out/production/PR2_2020/chap3/implement2/IntMax.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PR2_2020/out/production/PR2_2020/chap3/implement2/Sum.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PR2_2020/out/production/PR2_2020/chap3/implement2/Swap.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PR2_2020/out/production/PR2_2020/chap3/implementdemo/Sum.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PR2_2020/out/production/PR2_2020/chap3/raw/InputHandler.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PR2_2020/out/production/PR2_2020/chap3/raw/MultiSum.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PR2_2020/out/production/PR2_2020/chap3/raw/Numbers.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PR2_2020/out/production/PR2_2020/chap3/raw/Sum.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PR2_2020/out/production/PR2_2020/chap4/BinChop.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PR2_2020/out/production/PR2_2020/chap4/CoffeeTinGame.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PR2_2020/out/production/PR2_2020/chap4/Gcd.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PR2_2020/out/production/PR2_2020/chap4/GcdByDiv.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PR2_2020/out/production/PR2_2020/chap4/IntMax3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PR2_2020/out/production/PR2_2020/chap4/recfunc/Fact.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PR2_2020/out/production/PR2_2020/chap4/recfunc/LexString.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PR2_2020/out/production/PR2_2020/chap4/recfunc/Sum.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PR2_2020/out/production/PR2_2020/chap5_1/GreetingArray.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PR2_2020/out/production/PR2_2020/chap5_1/GreetingConversation.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PR2_2020/out/production/PR2_2020/chap5_1/GreetingConversationProc.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PR2_2020/out/production/PR2_2020/chap5_1/Person.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PR2_2020/out/production/PR2_2020/chap5_2/Customer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PR2_2020/out/production/PR2_2020/chap5_2/IntSet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PR2_2020/out/production/PR2_2020/chap5_2/apps/CRM.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PR2_2020/out/production/PR2_2020/chap5_2/apps/GreetingVector.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PR2_2020/out/production/PR2_2020/chap5_2/apps/IntVector.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PR2_2020/out/production/PR2_2020/chap5_2/apps/Integers.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PR2_2020/out/production/PR2_2020/chap5_2/apps/Vectors.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PR2_2020/out/production/PR2_2020/chap5_2/apps/Wrappers.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PR2_2020/out/production/PR2_2020/chap5_2/wrappers/IntegerWrapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PR2_2020/out/production/PR2_2020/chap5_3/Customer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PR2_2020/out/production/PR2_2020/chap5_3/Customer2$Address.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PR2_2020/out/production/PR2_2020/chap5_3/Customer2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PR2_2020/out/production/PR2_2020/chap5_3/CustomerApp.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PR2_2020/out/production/PR2_2020/chap5_3/CustomerApp1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PR2_2020/out/production/PR2_2020/chap5_3/CustomerApp2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PR2_2020/out/production/PR2_2020/chap5_3/CustomerApp3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PR2_2020/out/production/PR2_2020/chap5_3/CustomerFactory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PR2_2020/out/production/PR2_2020/chap5_3/Fact.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PR2_2020/out/production/PR2_2020/chap5_3/FactApp.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PR2_2020/out/production/PR2_2020/chap5_3/FactSequence$Fact.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PR2_2020/out/production/PR2_2020/chap5_3/FactSequence.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PR2_2020/out/production/PR2_2020/chap5_3/FactSequenceApp.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PR2_2020/out/production/PR2_2020/chap5_3/ObjectInit.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PR2_2020/out/production/PR2_2020/chap5_3/Precedes.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PR2_2020/out/production/PR2_2020/chap5_3/StackAndHeap.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PR2_2020/out/production/PR2_2020/chap5_3/exposerep/IntSet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PR2_2020/out/production/PR2_2020/chap5_3/exposerep/IntSet1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PR2_2020/out/production/PR2_2020/chap5_3/exposerep/IntSet1App.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PR2_2020/out/production/PR2_2020/chap5_3/exposerep/IntSetApp.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PR2_2020/out/production/PR2_2020/chap6/list/LinkedList$Cell.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PR2_2020/out/production/PR2_2020/chap6/list/LinkedList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PR2_2020/out/production/PR2_2020/chap6/list/List.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PR2_2020/out/production/PR2_2020/chap6/test/java/JavaList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PR2_2020/out/production/PR2_2020/chap6/test/java/JavaTree.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PR2_2020/out/production/PR2_2020/chap6/test/list/LinkedListTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PR2_2020/out/production/PR2_2020/chap6/test/list/ListTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PR2_2020/out/production/PR2_2020/chap6/test/tree/BottomUpTreeTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PR2_2020/out/production/PR2_2020/chap6/test/tree/TopDownTreeTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PR2_2020/out/production/PR2_2020/chap6/tree/bottomup/Tree.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PR2_2020/out/production/PR2_2020/chap6/tree/topdown/Tree.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PR2_2020/out/production/PR2_2020/chap7/README" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PR2_2020/out/production/PR2_2020/chap7/Tut_03.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PR2_2020/out/production/PR2_2020/chap8_review/FloatArray.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PR2_2020/out/production/PR2_2020/chap8_review/FloatArrayApp.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PR2_2020/out/production/PR2_2020/chap8_review/FloatArraySpec.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PR2_2020/out/production/PR2_2020/chap8_review/nonverifiable/FloatArray.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PR2_2020/out/production/PR2_2020/intro/Greeting.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PR2_2020/out/production/PR2_2020/intro/Greeting2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PR2_2020/out/production/PR2_2020/intro/Greeting3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PR2_2020/out/production/PR2_2020/intro/GreetingByHour.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PR2_2020/out/production/PR2_2020/intro/GreetingLoop.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PR2_2020/out/production/PR2_2020/libs/Hello.j" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PR2_2020/out/production/PR2_2020/libs/javaparser-core-3.0.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PR2_2020/out/production/PR2_2020/libs/t3-utils.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PR2_2020/out/production/PR2_2020/libs/userlib.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PR2_2020/out/production/PR2_2020/utils/AttrRef.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PR2_2020/out/production/PR2_2020/utils/DOpt.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PR2_2020/out/production/PR2_2020/utils/DomainConstraint.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PR2_2020/out/production/PR2_2020/utils/OptType.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PR2_2020/out/production/PR2_2020/utils/System.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PR2_2020/out/production/PR2_2020/utils/TextIO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PR2_2020/out/production/PR2_2020/utils/collections/Collection.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PR2_2020/out/production/PR2_2020/utils/sales.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PR2_2020/src/Tut_01/Ex2_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PR2_2020/src/Tut_01/Ex2_2_CORE.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PR2_2020/src/Tut_01/Ex2_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PR2_2020/src/Tut_01/Ex2_4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PR2_2020/src/Tut_01/Ex2_5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PR2_2020/src/Tut_01/Ex2_6_CORE.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PR2_2020/src/Tut_01/Ex3_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PR2_2020/src/Tut_01/Ex3_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PR2_2020/src/Tut_01/Ex3_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PR2_2020/src/Tut_01/Ex3_4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PR2_2020/src/Tut_01/Ex3_5_CORE.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PR2_2020/src/Tut_01/sales.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PR2_2020/src/Tut_03/Ex_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PR2_2020/src/Tut_03/Ex_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PR2_2020/src/Tut_03/Ex_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PR2_2020/src/Tut_03/Ex_5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PR2_2020/src/Tut_03/Ex_6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PR2_2020/src/Tut_03/Hello.j" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PR2_2020/src/Tut_03/ProgWriter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PR2_2020/src/Tut_03/libs/Hello.j" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PR2_2020/src/Tut_03/libs/javaparser-core-3.0.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PR2_2020/src/Tut_03/libs/t3-utils.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PR2_2020/src/Tut_03/libs/userlib.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PR2_2020/src/Tut_03/t3-utils.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PR2_2020/src/Tut_03/test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PR2_2020/src/Tut_03/userlib.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PR2_2020/src/chap1/Blocks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PR2_2020/src/chap1/Chào.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PR2_2020/src/chap1/ComputeAverage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PR2_2020/src/chap1/ComputeAverageWithCounter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PR2_2020/src/chap1/ComputeAverageWithForLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PR2_2020/src/chap1/CreateProfile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PR2_2020/src/chap1/Enums.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PR2_2020/src/chap1/ForEachLoop1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PR2_2020/src/chap1/ForEachLoop2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PR2_2020/src/chap1/Greeting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PR2_2020/src/chap1/IfStmt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PR2_2020/src/chap1/Interest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PR2_2020/src/chap1/Interest2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PR2_2020/src/chap1/ListLetters.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PR2_2020/src/chap1/ListLetters2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PR2_2020/src/chap1/MultiVarCountLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PR2_2020/src/chap1/Operators.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PR2_2020/src/chap1/Switch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PR2_2020/src/chap2/Gcd.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PR2_2020/src/chap2/Gcd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PR2_2020/src/chap2/Gcd.s" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PR2_2020/src/chap2/Gcd2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PR2_2020/src/chap2/Gcd3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PR2_2020/src/chap2/Hello.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PR2_2020/src/chap2/Hello.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PR2_2020/src/chap2/HelloSub.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PR2_2020/src/chap2/IfStmt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PR2_2020/src/chap2/IntegerLiteral.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PR2_2020/src/chap2/jvm/Spin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PR2_2020/src/chap3/ImportanceOfSpec.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PR2_2020/src/chap3/Numbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PR2_2020/src/chap3/SearchMultiple.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PR2_2020/src/chap3/Specifications.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PR2_2020/src/chap3/SquareRoot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PR2_2020/src/chap3/design/BinChop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PR2_2020/src/chap3/design/CoffeeTinGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PR2_2020/src/chap3/design/Sum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PR2_2020/src/chap3/implement/BinChop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PR2_2020/src/chap3/implement/CoffeeTinGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PR2_2020/src/chap3/implement/Sum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PR2_2020/src/chap3/implement2/BinChop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PR2_2020/src/chap3/implement2/CoffeeTinGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PR2_2020/src/chap3/implement2/IntMax.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PR2_2020/src/chap3/implement2/Sum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PR2_2020/src/chap3/implement2/Swap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PR2_2020/src/chap3/implementdemo/Sum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PR2_2020/src/chap3/raw/MultiSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PR2_2020/src/chap3/raw/Sum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PR2_2020/src/chap4/BinChop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PR2_2020/src/chap4/CoffeeTinGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PR2_2020/src/chap4/Gcd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PR2_2020/src/chap4/GcdByDiv.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PR2_2020/src/chap4/IntMax3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PR2_2020/src/chap4/recfunc/Fact.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PR2_2020/src/chap4/recfunc/LexString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PR2_2020/src/chap4/recfunc/Sum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PR2_2020/src/chap5_1/GreetingArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PR2_2020/src/chap5_1/GreetingConversation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PR2_2020/src/chap5_1/GreetingConversationProc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PR2_2020/src/chap5_1/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PR2_2020/src/chap5_2/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PR2_2020/src/chap5_2/IntSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PR2_2020/src/chap5_2/apps/CRM.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PR2_2020/src/chap5_2/apps/GreetingVector.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PR2_2020/src/chap5_2/apps/IntVector.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PR2_2020/src/chap5_2/apps/Integers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PR2_2020/src/chap5_2/apps/Vectors.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PR2_2020/src/chap5_2/apps/Wrappers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PR2_2020/src/chap5_2/wrappers/IntegerWrapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PR2_2020/src/chap5_3/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PR2_2020/src/chap5_3/Customer2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PR2_2020/src/chap5_3/CustomerApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PR2_2020/src/chap5_3/CustomerApp1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PR2_2020/src/chap5_3/CustomerApp2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PR2_2020/src/chap5_3/CustomerApp3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PR2_2020/src/chap5_3/CustomerFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PR2_2020/src/chap5_3/Fact.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PR2_2020/src/chap5_3/FactApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PR2_2020/src/chap5_3/FactSequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PR2_2020/src/chap5_3/FactSequenceApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PR2_2020/src/chap5_3/ObjectInit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PR2_2020/src/chap5_3/Precedes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PR2_2020/src/chap5_3/StackAndHeap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PR2_2020/src/chap5_3/exposerep/IntSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PR2_2020/src/chap5_3/exposerep/IntSet1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PR2_2020/src/chap5_3/exposerep/IntSet1App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PR2_2020/src/chap5_3/exposerep/IntSetApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PR2_2020/src/chap6/list/LinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PR2_2020/src/chap6/list/List.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PR2_2020/src/chap6/test/java/JavaList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PR2_2020/src/chap6/test/java/JavaTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PR2_2020/src/chap6/test/list/LinkedListTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PR2_2020/src/chap6/test/list/ListTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PR2_2020/src/chap6/test/tree/BottomUpTreeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PR2_2020/src/chap6/test/tree/TopDownTreeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PR2_2020/src/chap6/tree/bottomup/Tree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PR2_2020/src/chap6/tree/topdown/Tree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PR2_2020/src/chap7/README" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PR2_2020/src/chap7/Tut_03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PR2_2020/src/chap8_review/FloatArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PR2_2020/src/chap8_review/FloatArrayApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PR2_2020/src/chap8_review/FloatArraySpec.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PR2_2020/src/chap8_review/nonverifiable/FloatArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PR2_2020/src/intro/Greeting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PR2_2020/src/intro/Greeting2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PR2_2020/src/intro/Greeting3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PR2_2020/src/intro/GreetingByHour.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PR2_2020/src/intro/GreetingLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PR2_2020/src/libs/Hello.j" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PR2_2020/src/libs/javaparser-core-3.0.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PR2_2020/src/libs/t3-utils.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PR2_2020/src/libs/userlib.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PR2_2020/src/utils/AttrRef.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PR2_2020/src/utils/DOpt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PR2_2020/src/utils/DomainConstraint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PR2_2020/src/utils/OptType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PR2_2020/src/utils/System.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PR2_2020/src/utils/TextIO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PR2_2020/src/utils/collections/Collection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PR2_2020/src/utils/sales.dat" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/PR2_2020" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1ZErdPXmHhTcoQPJNLnTk3OtkUl" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Problems" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RunManager" selected="Application.Ex_5">
+    <configuration name="Ex_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Tut_03.Ex_1" />
+      <module name="PR2_2020" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Tut_03.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ex_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Tut_03.Ex_2" />
+      <module name="PR2_2020" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Tut_03.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ex_5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Tut_03.Ex_5" />
+      <module name="PR2_2020" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Tut_03.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProgWriter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Tut_03.ProgWriter" />
+      <module name="PR2_2020" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Tut_03.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Tut_03.test" />
+      <module name="PR2_2020" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Tut_03.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Ex_5" />
+        <item itemvalue="Application.ProgWriter" />
+        <item itemvalue="Application.Ex_1" />
+        <item itemvalue="Application.test" />
+        <item itemvalue="Application.Ex_2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="753e63e5-e76d-498e-b32b-0b96f83884c6" name="Default Changelist" comment="" />
+      <created>1584415180240</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584415180240</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="347" y="219" key="FileChooserDialogImpl" timestamp="1586097031551">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="347" y="219" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1586097031551" />
+    <state width="1323" height="180" key="GridCell.Tab.0.bottom" timestamp="1585984916685">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="180" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1585984916685" />
+    <state width="1323" height="180" key="GridCell.Tab.0.center" timestamp="1585984916685">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="180" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1585984916685" />
+    <state width="1323" height="180" key="GridCell.Tab.0.left" timestamp="1585984916684">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="180" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1585984916684" />
+    <state width="1323" height="180" key="GridCell.Tab.0.right" timestamp="1585984916685">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="180" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1585984916685" />
+    <state x="163" y="0" key="SettingsEditor" timestamp="1585964414680">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="163" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1585964414680" />
+    <state x="391" y="193" key="com.intellij.ide.util.TipDialog" timestamp="1586265301308">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="391" y="193" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1586265301307" />
+    <state x="339" y="162" key="run.anything.popup" timestamp="1585967106109">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="162" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1585967106109" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1585920953303">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1585920953303" />
+  </component>
+</project>

@@ -1,0 +1,75 @@
+package review;
+
+import java.util.Arrays;
+
+import userlib.DomainConstraint;
+import userlib.TextIO;
+
+/**
+ * @overview Array is a sequence of real numbers
+ * 
+ * @attributes
+ *  array   Float[]
+ * 
+ * @object
+ *  A typical Array is [-1.0, 0, 1.0, 2.5,...].
+ *  
+ * @abstract_properties
+ *  mutable(array)=true /\ optional(array)=false
+ *  
+ * @rep_invariant
+ *  array != null
+ * 
+ * @author dmle
+ */
+public class FloatArray {
+  @DomainConstraint(type="Float[]",mutable=true,optional=false)
+  private float[] array;
+  
+  /**
+   * @effects
+   *  if a is valid
+   *    initialise as Array<a>
+   *  else
+   *    print error "Invalid input array"
+   */
+  public FloatArray(float[] a)
+  
+  /**
+   * determine the sum of array of real
+   *   numbers
+   * @requires array != null
+   * @effects 
+   *  if array != null
+   *    return the sum of the array elements, i.e. result =
+   *          array[0]+...+array[array.length-1]
+   *  else
+   *    return Float.NaN    
+   */
+  public float sum()
+  
+  /**
+   * @effects 
+   *  obtain an array of n real numbers from keyboard input
+   */  
+  public void getNumbers(int n)
+  
+  /**
+   * Read a real number from the user
+   * @effects returns a successfully read real number or
+   *      Float.POSITIVE_INFINITY if failed to read 
+   */
+  private float read()
+  
+  @Override
+  public String toString()
+  
+  /**
+   * @effects
+   *  if this satisfies rep invariant
+   *    return true
+   *  else 
+   *    return false
+   */
+  public boolean repOK()
+} // end FloatArray
